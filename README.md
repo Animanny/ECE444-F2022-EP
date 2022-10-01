@@ -1,8 +1,16 @@
-# Assignment 1: Education Pathway
+# Education Pathway
 
 This repository is **Ani Srikanth's** clone of https://github.com/ECE444-2022Fall/Assignment_1_starter_template. You can view the online deployed version [here](https://assignment-1-starter-template.herokuapp.com/). We are using this repo as a starting point for assignment 1.
 
 The deploye version can be found at https://lab3-docker.herokuapp.com.
+
+### Lab3 - Activity 2
+
+![image](https://user-images.githubusercontent.com/14436239/193421215-5e80218a-41a8-4822-bbdf-97fd2eac5666.png)
+
+<details>
+      <summary>Existing Readme</summary>
+      <br>
 
 ## Changes
 
@@ -103,3 +111,5 @@ npm run build
 ```powershell
 git push heroku main
 ```
+
+</details>
