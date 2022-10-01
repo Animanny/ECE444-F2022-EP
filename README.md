@@ -8,6 +8,10 @@ The deploye version can be found at https://lab3-docker.herokuapp.com.
 
 ![image](https://user-images.githubusercontent.com/14436239/193421215-5e80218a-41a8-4822-bbdf-97fd2eac5666.png)
 
+### Lab3 - Activity 3
+
+![image](https://user-images.githubusercontent.com/14436239/193422493-f195ddc6-c045-46c1-8cf8-e10614b49131.png)
+
 <details>
       <summary>Existing Readme</summary>
       <br>
